@@ -1,0 +1,17 @@
+{
+  "name": "bootstrap-theme-flatly",
+  "version": "3.2.0",
+  "authors": [
+    "Tom Vincent <git@tlvince.com>"
+  ],
+  "description": "Bootswatch flatly Bootstrap theme",
+  "main": "flatly.min.css",
+  "keywords": [
+    "bootstrap",
+    "flatly",
+    "theme",
+    "bootswatch"
+  ],
+  "license": "MIT",
+  "homepage": "http://bootswatch.com/flatly"
+}
